@@ -1,0 +1,24 @@
+Zookeeper:
+bin/zookeeper-server-start.sh config/zookeeper.properties
+
+Kafka:
+bin/kafka-server-start.sh config/server.properties
+
+Creation of Topic:
+bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+
+Kafka Producer:
+bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
+
+Kafka Consumer:
+bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+
+Sparkjob:
+
+spark-submit --conf "spark.mongodb.read.connection.uri=mongodb://27017/BigData.data?readPreference=primaryPreferred" --conf "spark.mongodb.write.connection.uri=mongodb://27017/BigData.data" --packages org.mongodb.spark:mongo-spark-connector_2.13:10.4.0,org.apache.spark:spark-streaming-kafka-0-10_2.13:3.5.2,org.apache.spark:spark-sql-kafka-0-10_2.13:3.5.2 sparkjob.py localhost:9092 subscribe vehicle_positionss
+
+Starting MongoDB:
+sudo systemctl start mongod 
+sudo systemctl status mongod
+
+ 

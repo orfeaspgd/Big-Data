@@ -1,0 +1,221 @@
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:19",
+            "link":"E1I4",
+            "position":0.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:24",
+            "link":"E1I4",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:29",
+            "link":"E1I4",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:34",
+            "link":"E1I4",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:39",
+            "link":"I4I3",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:44",
+            "link":"I3I2",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:49",
+            "link":"I2I1",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:54",
+            "link":"I1W1",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":50.0
+      }
+
+      {
+            "name":"0",
+            "origin":"E1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:54",
+            "link":"trip_end",
+            "position":-1.0,
+            "spacing":-1.0,
+            "speed":-1.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:19",
+            "link":"N1I1",
+            "position":0.0,
+            "spacing":-1.0,
+            "speed":30.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:24",
+            "link":"N1I1",
+            "position":150.0,
+            "spacing":-1.0,
+            "speed":30.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:29",
+            "link":"N1I1",
+            "position":300.0,
+            "spacing":-1.0,
+            "speed":30.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:34",
+            "link":"N1I1",
+            "position":450.0,
+            "spacing":-1.0,
+            "speed":30.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:39",
+            "link":"N1I1",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":10.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:44",
+            "link":"N1I1",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:49",
+            "link":"N1I1",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:54",
+            "link":"N1I1",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:12:59",
+            "link":"N1I1",
+            "position":500.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:13:04",
+            "link":"I1W1",
+            "position":250.0,
+            "spacing":-1.0,
+            "speed":0.0
+      }
+
+      {
+            "name":"1",
+            "origin":"N1",
+            "destination":"W1",
+            "time":"20\/09\/2024 23:13:04",
+            "link":"trip_end",
+            "position":-1.0,
+            "spacing":-1.0,
+            "speed":-1.0
+      }
+
